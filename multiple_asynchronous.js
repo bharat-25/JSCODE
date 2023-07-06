@@ -17,6 +17,8 @@ function asyncOperation1(callback) {
     setTimeout(() => {
       console.log("Async operation 2 completed");
       callback();
+
+      
     }, 1000);
   }
   
