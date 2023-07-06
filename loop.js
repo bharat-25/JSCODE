@@ -10,7 +10,7 @@ let n=1
 // }
 
 //while Loop
-// while(n<10){
+// while(n<
 //     document.write(n)
 //     document.write("<br>")
 //     n++;
